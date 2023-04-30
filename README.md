@@ -9,10 +9,10 @@ https://sequenceserver.com/
 ---
 
 ### Steps to install 
-1. `sudo gem install sequenceserver` \
+1. `sudo gem install sequenceserver` 
 2. Clone this repository inside /var/www/aspendb/probesearch. \
 `git clone https://github.com/sakshi-seth-17/berryblast.git`
-3. To start the service run – `sequenceserver` \
+3. To start the service run – `sequenceserver` 
 4. To access any API from outside the server, the API needs to be listed on the server.
   - `sudo ufw allow 4567`
   - `sudo ufw enable`
