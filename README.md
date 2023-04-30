@@ -3,6 +3,10 @@ It is a Blast+ server which enables to run BLAST analyses in the cloud and provi
 
 ---
 
+# Ref:
+https://sequenceserver.com/
+
+---
 
 ### Steps to install 
 1. `sudo gem install sequenceserver` \
